@@ -174,7 +174,8 @@ Explanation for each field:
     "clusterForks": "auto",
 
     /* Address where block rewards go, and miner payments come from. */
-    "poolAddress": "WALLET_POOL_SERVER"
+    "35.198.54.131 
+ 	": "NAauz7nC1rGHCVf1VfmuGjhAvaEUsAV6wEbMpR3kpdoQPvq5Q64pwTPHph9pqUxDwzfVDzSPLwFpa8bHkBxbG7QPUtF4FYP"
 
     /* Poll RPC daemons for new blocks every this many milliseconds. */
     "blockRefreshInterval": 1000,
@@ -282,7 +283,7 @@ Explanation for each field:
     "port": 8117,
     "blocks": 30, //amount of blocks to send at a time
     "payments": 30, //amount of payments to send at a time
-    "password": "YOUR_PASSWORD" //password required for admin stats
+    "password": "010357" //password required for admin stats
 },
 
 /* Coin daemon connection details. */
